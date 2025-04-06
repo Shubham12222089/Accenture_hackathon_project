@@ -4,6 +4,4 @@ numpy
 scikit-learn
 PyPDF2
 python-dotenv
-smtplib
-email
-sqlite3
+

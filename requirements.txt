@@ -1,0 +1,8 @@
+spacy
+pdfminer.six
+scikit-learn
+smtplib
+sqlite3
+streamlit
+openai
+langchain

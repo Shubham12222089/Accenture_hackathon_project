@@ -2,7 +2,7 @@ spacy
 pdfminer.six
 scikit-learn
 # smtplib
-sqlite3
+#sqlite3
 streamlit
 openai
 langchain

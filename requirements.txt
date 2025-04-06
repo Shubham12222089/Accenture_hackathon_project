@@ -1,9 +1,9 @@
-spacy
-pdfminer.six
-scikit-learn
-# smtplib
-#sqlite3
 streamlit
-openai
-langchain
+pandas
+numpy
+scikit-learn
 PyPDF2
+python-dotenv
+smtplib
+email
+sqlite3

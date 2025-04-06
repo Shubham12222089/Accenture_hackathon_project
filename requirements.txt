@@ -4,7 +4,6 @@ numpy
 scikit-learn
 PyPDF2
 python-dotenv
+matplotlib
 langchain
 langchain-groq
-
-

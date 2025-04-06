@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 openai
 langchain
+PyPDF2
